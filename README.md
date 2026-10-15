@@ -1,15 +1,3 @@
-<!--
-BEHRUZ — GITHUB PROFILE
-Quyidagi 4 ta belgini o'zingizning TO'LIQ profil havolangizga almashtiring:
-  YOUR_TELEGRAM_URL
-  YOUR_INSTAGRAM_URL
-  YOUR_STEAM_URL
-  YOUR_GITHUB_URL
-Masalan, Telegram havolasi: https://t.me/username
-Steam uchun profilingizdagi Share / Copy profile URL manzilini ishlating.
-Animatsiyalar tashqi SVG xizmatlari orqali yuklanadi.
--->
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:060010,50:312e81,100:7c3aed&amp;text=ベフルーズ&amp;fontColor=ffffff&amp;fontSize=64&amp;fontAlignY=37&amp;desc=FRONTEND%20DEVELOPER&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Behruz — Frontend Developer" />
 </p>
@@ -34,15 +22,28 @@ Animatsiyalar tashqi SVG xizmatlari orqali yuklanadi.
   <a href="https://github.com/E-Eren-Yeager-Y"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=C4B5FD" alt="GitHub" /></a>
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Eren-Yeager-Y&layout=compact&theme=radical&hide_title=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-Eren-Yeager-Y&show_icons=true&theme=radical&border_radius=10&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=E-Eren-Yeager-Y&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
 ✦ A little about me
 I'm Behruz, a frontend developer who enjoys the creative side of code — turning a design into something people can use.
 - ⚛️ My go-to stack is React, Vite, and Tailwind CSS.
 - 🎨 I enjoy dark interfaces, responsive layouts, and smooth animations.
 - 🛠️ I've worked on an education website and a Telegram bot.
 - 📚 I improve my skills by building projects and refining the details.
-- 🎮 Beyond code: Genshin Impact, Attack on Titan, and cars.
+- 🎮 Beyond code: Genshin Impact, Attack on Titan, CS2 and anothers.
 ✦ My toolkit
-<p>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&amp;logo=css&amp;logoColor=639" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
@@ -50,7 +51,7 @@ I'm Behruz, a frontend developer who enjoys the creative side of code — turnin
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&amp;logo=sass&amp;logoColor=CC6699" alt="Sass" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&amp;logo=vite&amp;logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub" />
@@ -59,9 +60,11 @@ I'm Behruz, a frontend developer who enjoys the creative side of code — turnin
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffffff" alt="Vercel" />
 </p>
 
-<p>
+<p align="center">
   <sub>Also in my projects: Framer Motion · React Router · Swiper · Lucide · Telegram Bot API</sub>
 </p>
+
+<br>
 
 <p align="center">
   <b>Good interfaces are built one thoughtful detail at a time.</b>

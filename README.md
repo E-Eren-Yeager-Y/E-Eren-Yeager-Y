@@ -1,55 +1,72 @@
-<div align="center">
+<!--
+BEHRUZ — GITHUB PROFILE
+Quyidagi 4 ta belgini o'zingizning TO'LIQ profil havolangizga almashtiring:
+  YOUR_TELEGRAM_URL
+  YOUR_INSTAGRAM_URL
+  YOUR_STEAM_URL
+  YOUR_GITHUB_URL
+Masalan, Telegram havolasi: https://t.me/username
+Steam uchun profilingizdagi Share / Copy profile URL manzilini ishlating.
+Animatsiyalar tashqi SVG xizmatlari orqali yuklanadi.
+-->
 
-Hey, I'm Behruz 👋
-Frontend Developer · Uzbekistan 🇺🇿
-I turn ideas into responsive websites with clean interfaces and thoughtful details.
-<img src="https://img.shields.io/badge/FOCUS-Frontend_Development-8B5CF6?style=for-the-badge" alt="Focus: Frontend Development" />
-<img src="https://img.shields.io/badge/BUILDING-With_React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="Building with React" />
-
-</div>
-
-👨‍💻 About me
-- 💻 I build websites with HTML, CSS, JavaScript, and React.
-- 🎨 I enjoy working on layouts, responsive design, and UI animations.
-- 🛠️ My projects include an education website and a Telegram bot.
-- 🌱 I keep improving my frontend skills through hands-on projects.
-- ⚡ Away from code: anime, gaming, and the Lamborghini Revuelto.
-🧰 Tech stack
-Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="Sass" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:060010,50:312e81,100:7c3aed&amp;text=BEHRUZ&amp;fontColor=ffffff&amp;fontSize=64&amp;fontAlignY=37&amp;desc=FRONTEND%20DEVELOPER&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Behruz — Frontend Developer" />
 </p>
 
-Tools & workflow
-<p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=55&amp;lines=Turning+ideas+into+interfaces.;React+%2B+Vite+%2B+Tailwind+CSS;Clean+layouts.+Smooth+interactions.;Always+learning.+Always+building." alt="Turning ideas into interfaces. React, Vite and Tailwind CSS. Always learning, always building." />
 </p>
 
-🚀 Things I build
-Project	What I work on	Technologies
-ITBoost Academy	An education website with course information and responsive layouts	React · Vite · Tailwind CSS
-Telegram Bot	A bot with Uzbek / English language selection and admin commands	Node.js · node-telegram-bot-api
-Interface Experiments	Reusable components, animated sections, and page layouts	JavaScript · React · CSS
+<p align="center">
+  <b>Frontend developer from Uzbekistan 🇺🇿</b><br />
+  I build responsive websites and enjoy bringing interfaces to life through motion and detail.
+</p>
 
+<!-- Faqat href ichidagi YOUR_..._URL belgilarini almashtiring. -->
+<p align="center">
+  <a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&amp;logo=telegram&amp;logoColor=26A5E4" alt="Telegram" /></a>
+  &nbsp;
+  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=E4405F" alt="Instagram" /></a>
+  &nbsp;
+  <a href="YOUR_STEAM_URL"><img src="https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&amp;logo=steam&amp;logoColor=66C0F4" alt="Steam" /></a>
+  &nbsp;
+  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=C4B5FD" alt="GitHub" /></a>
+</p>
 
-<!-- Add verified repository or live-demo links to the project names above when ready. -->
+✦ A little about me
+I'm Behruz, a frontend developer who enjoys the creative side of code — turning a design into something people can use.
+- ⚛️ My go-to stack is React, Vite, and Tailwind CSS.
+- 🎨 I enjoy dark interfaces, responsive layouts, and smooth animations.
+- 🛠️ I've worked on an education website and a Telegram bot.
+- 📚 I improve my skills by building projects and refining the details.
+- 🎮 Beyond code: Genshin Impact, Attack on Titan, and cars.
+✦ My toolkit
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&amp;logo=css&amp;logoColor=639" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&amp;logo=sass&amp;logoColor=CC6699" alt="Sass" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&amp;logo=vite&amp;logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&amp;logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffffff" alt="Vercel" />
+</p>
 
-🎯 My approach
-Build → Test → Refine → Learn
-I like turning a rough idea into a working interface, then improving the details one step at a time.
-<!-- Optional: add your public portfolio, Telegram, or email links here. -->
+<p>
+  <sub>Also in my projects: Framer Motion · React Router · Swiper · Lucide · Telegram Bot API</sub>
+</p>
 
-<div align="center">
+<p align="center">
+  <b>Good interfaces are built one thoughtful detail at a time.</b>
+</p>
 
-Thanks for stopping by! ✨
-Take a look at my repositories to see what I've been building.
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:060010,50:312e81,100:7c3aed" alt="Purple gradient footer" />
+</p>

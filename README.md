@@ -11,7 +11,7 @@ Animatsiyalar tashqi SVG xizmatlari orqali yuklanadi.
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:060010,50:312e81,100:7c3aed&amp;text=BEHRUZ&amp;fontColor=ffffff&amp;fontSize=64&amp;fontAlignY=37&amp;desc=FRONTEND%20DEVELOPER&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Behruz — Frontend Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:060010,50:312e81,100:7c3aed&amp;text=ベフルーズ&amp;fontColor=ffffff&amp;fontSize=64&amp;fontAlignY=37&amp;desc=FRONTEND%20DEVELOPER&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Behruz — Frontend Developer" />
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@ Animatsiyalar tashqi SVG xizmatlari orqali yuklanadi.
 
 <!-- Faqat href ichidagi YOUR_..._URL belgilarini almashtiring. -->
 <p align="center">
-  <a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&amp;logo=telegram&amp;logoColor=26A5E4" alt="Telegram" /></a>
+  <a href="https://t.me/E_Eren_Yeager_Y"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&amp;logo=telegram&amp;logoColor=26A5E4" alt="Telegram" /></a>
   &nbsp;
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/kv_behruz/L"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=E4405F" alt="Instagram" /></a>
   &nbsp;
-  <a href="YOUR_STEAM_URL"><img src="https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&amp;logo=steam&amp;logoColor=66C0F4" alt="Steam" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198786567029/"><img src="https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&amp;logo=steam&amp;logoColor=66C0F4" alt="Steam" /></a>
   &nbsp;
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=C4B5FD" alt="GitHub" /></a>
+  <a href="https://github.com/E-Eren-Yeager-Y"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=C4B5FD" alt="GitHub" /></a>
 </p>
 
 ✦ A little about me
